@@ -1,2 +1,2 @@
 # ASTE
-PWA, JS, Node.js, Express.js, Webpack, IDB, Babel, Axios, Dotenv - ASTE (Another Spectacular Text Editor) 
+PWA, JS, Node.js, Express.js, Webpack, IDB, Babel, - JATE (Another Spectacular Text Editor) 
