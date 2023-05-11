@@ -21,7 +21,7 @@
 
   ## Link
   
-  [Click Here](https://j-another-text-editor.herokuapp.com/) to go to the repo link.
+  [Click Here](https://j-another-text-editor.herokuapp.com/) to go to the deployed link.
   
 
 
